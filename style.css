@@ -23,13 +23,13 @@ body{
     margin-left: 25%;
 }
 #skip-div{
-    margin-left: 22%;
-    margin-right: 22%;
+    margin-left: 14%;
+    margin-right: 16%;
 }
 .sec1-p1{
     font-size: 40px;
     font-weight: 700;
-  
+
 }
 span{
     color: #ffa600;
@@ -37,7 +37,7 @@ span{
 hr{
     height: 5px;
     background-color: darkcyan;
-    
+
 }
 .sec-flex{
     display: flex;
@@ -71,7 +71,7 @@ hr{
     width: 200%;
     height: 100%;
     margin-top: 5%;
-    margin-left: 45%;
+    margin-left: 45%%;
 }
 .sec2-h1{
     color: #0b2f70;
@@ -88,7 +88,7 @@ hr{
 }
 .food1 img{
     width: 100%;
-    height: 150%;
+    height: 140%;
 }
 .food1{
     box-shadow: 10px 10px 20px #38ACC6;
@@ -113,7 +113,7 @@ border-radius: 20px;
 }
 .food3 img{
     width: 100%;
-    height: 150%;
+    height: 140%;
 }
 .food3{
     box-shadow: 10px 10px 20px #38ACC6;
@@ -186,4 +186,4 @@ h2{
     font-size: 30px;
     color: slategrey;
 
-}
+} 
